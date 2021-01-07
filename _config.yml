@@ -9,7 +9,7 @@
 # --------------------------
 title: jin young kim                   # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: jinoung's github page.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -24,7 +24,7 @@ author: jin young kim                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: jin young kim              # change to your github username
+  username: jinoung0317              # change to your github username
 
 social:
   name: jin young kim                   # it will shows as the copyright owner in Footer
